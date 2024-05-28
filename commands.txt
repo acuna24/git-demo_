@@ -46,3 +46,9 @@ connected
 
 *	git status 
 		- displays the current status of your file/folder
+
+*	git log
+		- diplays all the commits that were made
+
+*	git log
+		- condensed version of the git log

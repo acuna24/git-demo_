@@ -50,5 +50,5 @@ connected
 *	git log
 		- diplays all the commits that were made
 
-*	git log
+*	git log --oneline
 		- condensed version of the git log
